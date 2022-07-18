@@ -4,3 +4,5 @@ Recently I took interest, in a website called the 512KB club. This was basically
 I do have one thing to thank my web - development phase for, and that's for this blog. It's been a few years since I've actually coded a website before, and all the knowledge I earned from the several tutorials I watched and understood didn't seem to flush back in to my brain, which I thought was very strange but after a few more tutorials, I got started on this blog!
 
 So with tailwindcss and a treasure trove of tutorials ('youtube'), I got ready to create my first blog. And.. uh.. here I am now, Ready to publish my changes on to Github!
+
+Ah yes, so it seems there was a bit of a hiccup with tailwindcss and it just refused to work. A programmer's mindset should be more of a, 'there's always a solution to this problem' which there probably was, but I wanted to build it and see if the website was functioning well so I tried to ignore this issue.
